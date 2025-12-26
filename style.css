@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(169, 249, 254);
+    display: flex;
+}
+
+.card {
+    border: 2px solid black;
+    height: 960px;
+    width: 450px;
+    background-color: rgb(242, 230, 177);
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+img {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 14px;
+}
+
+.header {
+    padding-left: 14px;
+    padding-top: 12px;
+    font-family: cursive;
+    font-size: 16px;
+    background-color: beige;
+}
+
+.content {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+span {
+    border: 1px solid black;
+    margin: 6px;
+    padding: 4px;
+    padding-left: 6px;
+    padding-right: 8px;
+    background-color: rgb(252, 252, 114);
+    border-radius: 10px;
+}
+
+.capsules {
+    display: flex;
+    padding-bottom: 22px;
+    padding-top: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+.but {
+    justify-content: center;
+    display: flex;
+    padding-top: 26px;
+}
+
+button {
+    padding: 12px;
+    border-radius: 10px;
+    padding-bottom: 12px;
+    background-color: rgb(237, 237, 73);
+    border: 1px solid yellow;
+    color: black;
+    font-weight: 500;
+}
+
+h1 {
+    display: block;
+}
+
+.whole {
+    display: flex;
+}
+
+.h22 {
+    padding-left: 34px;
+}
+
+.card2 {
+    background-color: skyblue;
+}
+
+.header3 {
+    padding-left: 72px;
+}
+
+.card3 {
+    background-color: rgb(214, 177, 249);
+}
